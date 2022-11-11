@@ -1,0 +1,24 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "This is test dir to learn Git and Node",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AgniveshChaubey/git-test.git"
+  },
+  "author": "Agnivesh Chaubey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AgniveshChaubey/git-test/issues"
+  },
+  "homepage": "https://github.com/AgniveshChaubey/git-test#readme"
+  // "devDependencies": {
+  //   "lite-server":"^2.2.2"
+  // }
+}
